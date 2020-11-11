@@ -8,3 +8,7 @@ JavaMail 1.6.2 --> https://github.com/javaee/javamail/releases <br>
 activation-1.1.1.jar --> https://www.findjar.com/jar/javax/activation/activation/1.1.1/activation-1.1.1.jar.html
 
 
+You also have to go to your account (Google Account) > Settings > Security > turn ON 'Less secure apps'.
+
+
+This project only works for GMAIL ONLY. 
