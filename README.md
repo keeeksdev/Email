@@ -9,6 +9,7 @@ activation-1.1.1.jar --> https://www.findjar.com/jar/javax/activation/activation
 
 
 You also have to go to your account (Google Account) > Settings > Security > turn ON 'Less secure apps'.
+    - if you cant find the option thats because you have 2 step verification on, turn that off first and that the option will appear. 
 
 
 This project only works for GMAIL ONLY. 
